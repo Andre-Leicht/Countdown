@@ -7,6 +7,12 @@ body{
     align-items: center;
     min-height: 100vh;
     margin: 0;
+    background-image: url(https://images.unsplash.com/photo-1609517905310-2ee66db122d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fG5ldyUyMHllYXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    color: aliceblue;
 }
 h1{
     font-weight: normal;
